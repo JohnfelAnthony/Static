@@ -25,8 +25,13 @@ During my first year of college, I gained experience in building a website using
 * CSS
 * JavaScript
 * Bootstrap
+<<<<<<< HEAD
 * React
 * Node.js
+=======
+* MySQL
+* Python
+>>>>>>> feature-skills-revamp
 
 
 
