@@ -2,12 +2,12 @@
 
 ## Student Information
 
-| Field           | Details                                                        |
-|-----------------|----------------------------------------------------------------|
-| **Name**        | Johnfel Anthony Caredo                                                 |
-| **Year Level**  | 4th Year                                                       |
-| **Set/Section** | BSIT-4D                                                        |
-| **Subject**     | IT 415 – Application Development and Emerging Technologies     |
+|Field|Details|
+|-|-|
+|**Name**|Johnfel Anthony Caredo|
+|**Year Level**|4th Year|
+|**Set/Section**|BSIT-4D|
+|**Subject**|IT 415 – Application Development and Emerging Technologies|
 
 
 
@@ -21,14 +21,16 @@ During my first year of college, I gained experience in building a website using
 
 ## Skills
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* MySQL
+* Python
 
 
 
 ## Contact Information
 
-- 📧 Email: caredo.johnfelanthony@dnsc.edu
+* 📧 Email: caredo.johnfelanthony@dnsc.edu
 
